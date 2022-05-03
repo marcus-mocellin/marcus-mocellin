@@ -11,3 +11,4 @@ You can click the Preview link to take a look at your changes.
 # Professor
 ## Física
 ## Pensamento Computacional
+https://github.com/alexandresanlim/Badges4-README.md-Profile#:~:text=https%3A//img.shields.io/badge/Spark%2520AR%2DFF5C83%3Fstyle%3Dfor%2Dthe%2Dbadge%26logo%3DSpark%20AR%26logoColor%3Dwhite
