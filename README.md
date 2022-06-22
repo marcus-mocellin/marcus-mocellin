@@ -3,7 +3,7 @@
 - 👋 Olá! Meu nome é Marcus Mocellin.
 - 👀 Sou professor da Rede Estadual de Educação, no estado do Paraná.
 - 🌱 Leciono as disciplinas de Física e de Pensamento Computacional.
-- 💞️ Meu objetivo é auxiliar os meus alunos a desenvolverem as habilidades necessárias para alcançarem .
+- 💞️ Meu objetivo é auxiliar os meus alunos a desenvolverem as habilidades necessárias para alcançarem uma condição de plena autonomia.
 - 📫 Meu e-mail profissional é: professor.mocellin@gmail.com
 
 <!---
