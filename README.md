@@ -2,7 +2,7 @@
 
 - 👀 Meu nome: Marcus Mocellin.
 - 🌱 Meu trabalho atual: Professor PSS na SEED/PR, dos componentes curriculares Física e Pensamento Computacional.
-- 💞️ Meu objetivo: Dar aos meus alunos raizes, hoje. Para que no futuro, possam adquirir asas.
+- 💞️ Meu objetivo: Dar aos meus alunos raizes, hoje; para que no futuro, possam adquirir asas.
 - 📫 Para se comunicar comigo:
 
     <div>
