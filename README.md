@@ -4,7 +4,7 @@
 - 👀 Sou professor da Rede Estadual de Educação, no estado do Paraná.
 - 🌱 Leciono as disciplinas de Física e de Pensamento Computacional.
 - 💞️ Meu objetivo é auxiliar os meus alunos a desenvolverem as habilidades necessárias para alcançarem uma condição de plena autonomia, tanto em suas vidas pessoais quanto profissionais.
-- 📫 Meu e-mail profissional é: professor.mocellin@gmail.com
+- 📫 Precisando se comunicar comigo, acesse o meu [e-mail](professor.mocellin@gmail.com) profissional.
 
 <!---
 marcus-mocellin/marcus-mocellin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
