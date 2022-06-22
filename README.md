@@ -2,7 +2,7 @@
 
 - :raising_hand_man: Meu nome: **Marcus Mocellin**.
 - :man_teacher: Meu trabalho atual: **Professor PSS** na **[SEED/PR](https://www.educacao.pr.gov.br/)**, das disciplinas **Física** e **Pensamento Computacional**.
-- :dart: Meu objetivo: **Dar aos meus alunos raizes, hoje; para que no futuro, eles possam adquirir asas.**
+- :dart: Meu objetivo: **Dar aos meus alunos raizes hoje, para que no futuro eles possam adquirir asas.**
 - 📫 Para se comunicar comigo ou conhecer melhor a minha trajetória profissional:
 
     <div>
