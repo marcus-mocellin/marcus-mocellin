@@ -1,10 +1,9 @@
-# Conheçe-me a mim mesmo!
+# 👋 Conheçe-me a mim mesmo!
 
-- 👋 Olá! Meu nome é Marcus Mocellin.
-- 👀 Sou professor da Rede Estadual de Educação, no estado do Paraná.
-- 🌱 Leciono as disciplinas de Física e de Pensamento Computacional.
-- 💞️ Meu objetivo é auxiliar os meus alunos a desenvolverem as habilidades necessárias para alcançarem uma condição de plena autonomia, tanto em suas vidas pessoais quanto profissionais.
-- 📫 Precisando se comunicar comigo, acesse o meu [e-mail](professor.mocellin@gmail.com) profissional.
+- 👀 Meu nome: Marcus Mocellin.
+- 🌱 Meu trabalho atual: Professor PSS na SEED/PR, dos componentes curriculares Física e Pensamento Computacional.
+- 💞️ Meu objetivo: Buscar a perfeição na simplicidade.
+- 📫 Para se comunicar comigo: professor.mocellin@gmail.com
 
 <!---
 marcus-mocellin/marcus-mocellin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
