@@ -1,4 +1,4 @@
-# Conheça-me um pouco melhor:
+# Conheça-me a mim mesmo!
 
 - 👋 Olá! Meu nome é Marcus Mocellin.
 - 👀 Sou professor da Rede Estadual de Educação, no estado do Paraná.
