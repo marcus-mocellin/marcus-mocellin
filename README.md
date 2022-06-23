@@ -1,8 +1,8 @@
-# 👋 Conheçe-me a mim mesmo!
+# 👋 Olá!
 
-- :raising_hand_man: Meu nome: **Marcus Mocellin**.
-- :man_teacher: Meu trabalho atual: **Professor PSS** na **[SEED/PR](https://www.educacao.pr.gov.br/)**, das disciplinas **Física** e **Pensamento Computacional**.
-- :dart: Meu objetivo: **Dar aos meus alunos raizes hoje, para que no futuro eles possam adquirir asas.**
+- Atualmente estou atuando como **Professor PSS** na **[SEED/PR](https://www.educacao.pr.gov.br/)**, lecionando as disciplinas de **Física** e de **Pensamento Computacional**.
+- Tenho utilizado este repositório para disponibilizar aos meus alunos as atividades realizadas durante os cursos.
+- O meu principal objetivo é **proporcionar raízes aos meus alunos hoje, para que no futuro eles possam adquirir asas.**
 
 ### Contato:
 <a href = "mailto:professor.mocellin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
