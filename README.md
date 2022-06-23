@@ -15,5 +15,5 @@ marcus-mocellin/marcus-mocellin is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-## License
-GitHub Profile Views Counter application is open-sourced software licensed under the MIT license by Anton Komarev.
+### License:
+GitHub Profile Views Counter application is open-sourced software licensed under the [MIT license](https://github.com/antonkomarev/github-profile-views-counter/blob/master/LICENSE) by [Anton Komarev](https://komarev.com/).
