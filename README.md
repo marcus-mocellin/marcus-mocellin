@@ -1,6 +1,6 @@
 # 👋 Olá!
 
-- Atualmente atuo como **Professor PSS** na **[SEED/PR](https://www.educacao.pr.gov.br/)**, lecionando as disciplinas de **Física** e de **Pensamento Computacional**.
+- Atualmente, estou atuando como **Professor PSS** na **[SEED/PR](https://www.educacao.pr.gov.br/)**, lecionando as disciplinas de **Física** e de **Pensamento Computacional**.
 - Tenho utilizado este repositório para disponibilizar aos meus alunos as atividades realizadas durante os cursos.
 - O meu principal objetivo é **proporcionar raízes aos meus alunos hoje, para que no futuro eles possam adquirir asas.**
 
