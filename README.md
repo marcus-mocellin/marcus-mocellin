@@ -1,9 +1,6 @@
-![Foto do Perfil](https://user-images.githubusercontent.com/100809861/176976574-5f941a4b-6cd9-4c8d-9ed0-932d974e001e.jpg)
-
 
 
 # 👋 Olá!!!
-
 
 - Atualmente, estou atuando como **Professor PSS** na **[SEED/PR](https://www.educacao.pr.gov.br/)**, lecionando as disciplinas de **Física** e de **Pensamento Computacional**.
 - Tenho utilizado este repositório para disponibilizar aos meus alunos e demais interessados as atividades realizadas durante as aulas.
