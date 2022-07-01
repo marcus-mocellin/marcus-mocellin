@@ -5,7 +5,7 @@
 # 👋 Olá!!!
 
 - Sou **Professor PSS** na **[SEED/PR](https://www.educacao.pr.gov.br/)**, dos componentes curriculares **Física** e **Pensamento Computacional**.
-- Utilizo este repositório para disponibilizar aos meus alunos e demais interessados as atividades realizadas durante as aulas.
+- Utilizo este repositório para disponibilizar aos meus alunos e demais interessados as atividades realizadas durante as aulas de Pensamento Computacional.
 - Meu principal objetivo é **proporcionar raízes aos meus alunos, hoje... para que no futuro, possam adquirir asas.**
 
 ### Contato:
@@ -14,8 +14,8 @@
 
 ![](https://komarev.com/ghpvc/?username=marcus-mocellin&style=for-the-badge)
 
-### Pensamento Computacional na Base Nacional Comum Curricular (BNCC)
-A Base Nacional Comum Curricular (BNCC) é um documento de caráter normativo que define o conjunto orgânico e progressivo de aprendizagens essenciais que todos os alunos devem desenvolver ao longo das etapas e modalidades da Educação Básica.
+## Pensamento Computacional na Base Nacional Comum Curricular (BNCC)
+A **Base Nacional Comum Curricular ([BNCC](http://basenacionalcomum.mec.gov.br/))** é um documento de caráter normativo que define o conjunto orgânico e progressivo de aprendizagens essenciais que todos os alunos devem desenvolver ao longo das etapas e modalidades da Educação Básica.
 
 Na BNCC encontra-se estabelecido o seguinte:
 
