@@ -1,8 +1,10 @@
+# 👋 Olá!!!
+
 <p align="left">
-<img src="https://user-images.githubusercontent.com/100809861/176976574-5f941a4b-6cd9-4c8d-9ed0-932d974e001e.jpg"/>
+<img src="https://user-images.githubusercontent.com/100809861/176978703-0b35dc36-d0b1-49e9-abee-dac4b76256de.jpg"/>
 </p>
 
-# 👋 Olá!!!
+![](https://komarev.com/ghpvc/?username=marcus-mocellin&style=for-the-badge)
 
 - Sou **Professor PSS** na **[SEED/PR](https://www.educacao.pr.gov.br/)**, dos componentes curriculares **Física** e **Pensamento Computacional**.
 - Utilizo este repositório para disponibilizar aos meus alunos e demais interessados as atividades realizadas durante as aulas de Pensamento Computacional.
@@ -11,8 +13,6 @@
 ### Contato:
 <a href = "mailto:professor.mocellin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marcus-mocellin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-![](https://komarev.com/ghpvc/?username=marcus-mocellin&style=for-the-badge)
 
 ## Pensamento Computacional na Base Nacional Comum Curricular (BNCC)
 A **Base Nacional Comum Curricular ([BNCC](http://basenacionalcomum.mec.gov.br/))** é um documento de caráter normativo que define o conjunto orgânico e progressivo de aprendizagens essenciais que todos os alunos devem desenvolver ao longo das etapas e modalidades da Educação Básica.
