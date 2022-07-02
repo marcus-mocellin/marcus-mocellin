@@ -6,7 +6,7 @@
 
 # 👋 Olá!!!
 - Sou **Professor PSS** na **[SEED/PR](https://www.educacao.pr.gov.br/)**, dos componentes curriculares **Física** e **Pensamento Computacional**.
-- Utilizo este repositório para compartilhar com os interessados, as atividades realizadas durante as aulas de Pensamento Computacional.
+- Utilizo este repositório para compartilhar as atividades realizadas durante as aulas de Pensamento Computacional.
 - Objetivo: *Proporcionar raízes aos meus alunos, hoje... para que no futuro, possam adquirir asas.*
 
 ### Contato:
