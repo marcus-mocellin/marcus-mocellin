@@ -1,11 +1,10 @@
-# 👋 Olá!!!
-
 <p align="left">
 <img src="https://user-images.githubusercontent.com/100809861/176978703-0b35dc36-d0b1-49e9-abee-dac4b76256de.jpg"/>
 </p>
 
 ![](https://komarev.com/ghpvc/?username=marcus-mocellin&style=for-the-badge)
 
+# 👋 Olá!!!
 - Sou **Professor PSS** na **[SEED/PR](https://www.educacao.pr.gov.br/)**, dos componentes curriculares **Física** e **Pensamento Computacional**.
 - Utilizo este repositório para disponibilizar aos meus alunos e demais interessados as atividades realizadas durante as aulas de Pensamento Computacional.
 - Meu principal objetivo é **proporcionar raízes aos meus alunos, hoje... para que no futuro, possam adquirir asas.**
