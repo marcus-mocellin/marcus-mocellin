@@ -35,12 +35,14 @@ Portanto, o foco passa a estar no reconhecimento das potencialidades das tecnolo
 ## Fases do Pensamento Computacional
 - **Decomposição**: dividir o problema em elementos menores, mais fáceis de serem resolvidos;
 - **Padronização**: identificar os padrões que se repetem nas soluções propostas e/ou que já estão presentes em soluções anteriores;
-- **Abstração ou generalização**: abstrair (descartar) detalhes desnecessários de uma solução de modo que ela possa ser válida para a solução de outros problemas
+- **Abstração ou generalização**: abstrair (descartar) detalhes desnecessários de uma solução de modo que ela possa ser válida para a solução de outros problemas;
 - **Algoritmo**: determinar a sequência de passos para resolver o problema.
 
 ## Algoritmo
 
 Um **algoritmo** é um conjunto ordenado de passos, não ambíguos e com a finalidade de resolver um determinado problema. Um algoritmo pode ser representado de forma narrativa, através de fluxograma, linguagem algorítmica ou Diagrama de Chapin Estruturado.
+
+![Fluxograma](https://user-images.githubusercontent.com/100809861/177052433-a7b3bf2b-328f-4a26-a2ea-7c41c4fbc51b.png)
 
 Todo algoritmo deve apresentar algumas **características básicas**, como:
 - Ser finito;
@@ -58,28 +60,24 @@ Na sequência, responda às seguintes perguntas, conhecidas como **5 Q’s**:
 - Qual é o resultado esperado?
 - Qual a sequência de passos a ser feita para chegar ao resultado esperado?
 
-**Recursos** presentes em algoritmos:
-- Algoritmos com sequências, seleções, decisões e repetições
-- Algoritmos com estruturas de dados: listas, vetores e matrizes
-- Algoritmos com abstração ou generalização
-- Algoritmos com decomposição e reuso
-- Algoritmo com recursividade
+**Recursos** que podem estar presentes em algoritmos:
+- Algoritmos com sequências, seleções, decisões e repetições;
+- Algoritmos com estruturas de dados: listas, vetores e matrizes;
+- Algoritmos com abstração ou generalização;
+- Algoritmos com decomposição e reuso;
+- Algoritmo com recursividade.
 
 ## Termos e Definições Úteis
 
 **Computação desplugada**: ensino de ciência da computação sem o uso de equipamentos de computação. Para tanto, faz-se necessário o desenvolvimento de atividades apropriadas que possibilitem o desenvolvimento das habilidades de resolução de problemas e de comunicação.
 
-**Compilador**: programa tradutor capaz de converter um programa fonte, escrito em linguagem de alto nível (C++, C#, JavaScript, Python, HTML, dentre outras), para um programa executável, escrito em linguagem de máquina (linguagem de baixo nível). A linguagem de máquina é a única linguagem que o computador pode entender. Antes de converter uma linguagem de alto nível para a linguagem de máquina, o compilador a converte para uma linguagem intermediária, também denominada linguagem de montagem (linguagem Assembly). Para isso, faz uso de um programa montador.
-
-**Fluxograma**: representação gráfica de um algoritmo.
-
-![Fluxograma](https://user-images.githubusercontent.com/100809861/177052433-a7b3bf2b-328f-4a26-a2ea-7c41c4fbc51b.png)
+**Compilador**: programa tradutor capaz de converter um programa fonte, escrito em linguagem de alto nível (C++, C#, JavaScript, Python, HTML, dentre outras), para um programa executável, escrito em linguagem de máquina (linguagem de baixo nível). A linguagem de máquina é a única linguagem que o computador pode entender. Antes de converter uma linguagem de alto nível para a linguagem de máquina, o compilador a converte para uma linguagem intermediária, também denominada linguagem de montagem (Linguagem Assembly). Para isso, faz uso de um programa montador.
 
 **Hardware**: são os itens físicos e tangíveis do dispositivo, desde seu gabinete até as peças internas que o compõe.
 
 **Software**: parte inteligente de um sistema de computação, associada à programação.
-- **Software aplicativo**: utilizados pelo usuário para finalidades específicas (aplicativos de smartphones, browser, Microsoft Office, AutoCad, dentre outros.
-- **Software básico**: programas destinados a atividades intrínsecas do computador (sistema operacional, 
+- **Software aplicativo**: utilizados pelo usuário para finalidades específicas, como os aplicativos de smartphones, os browser, o Microsoft Office, dentre outros.
+- **Software básico**: programas destinados a atividades intrínsecas do computador, como o sistema operacional.
 
 **Equipamentos de computação**: desktop, notebook, tablet, smartphone, assistentes virtuais, controladores digitais, dentre outros.
 
@@ -90,21 +88,23 @@ Na sequência, responda às seguintes perguntas, conhecidas como **5 Q’s**:
 **Memória**: componente onde são armazenados os dados e o programa. Todo dado fornecido ao computador é armazenado em memória, bem como os resultados das operações. Um dado armazenado na memória recebe o nome genérico de variável.
 
 **CPU – Unidade Central de Processamento**: corresponde ao cérebro do computador, sendo composta por outras unidades menores.
-- **ULA** – Unidade Lógica e Aritmética: componente responsável pelas operações matemática e avaliações lógicas;
-- **UC** – Unidade de Controle: componente responsável por gerenciar as demais partes do computador, distribuindo as tarefas de acordo com as instruções do programa.
+- **ULA – Unidade Lógica e Aritmética**: componente responsável pelas operações matemática e avaliações lógicas;
+- **UC – Unidade de Controle**: componente responsável por gerenciar as demais partes do computador, distribuindo as tarefas de acordo com as instruções do programa.
 
 **GPU – Unidade de Processamento Gráfico**: apesar da evolução das CPUs nos últimos anos, elas ainda apresentam uma certa deficiência em processamentos gráficos. Isso acontece porque os dados são transferidos de forma sequencial. Portanto, quando vários dados precisam ser processados simultaneamente a GPU entra em ação, reduzindo a pressão sobre a CPU e melhorando o desempenho. Em alguns computadores e notebooks, nos modelos mais baratos, a GPU está integrada à CPU, o que diminui a eficiência em tarefas pesadas. A GPU executa funções semelhantes à da CPU, mas a diferença está na forma como ela realiza seu trabalho. A estrutura é adaptada para processar bilhões de cálculos por segundo, uma tarefa extremamente importante em jogos. Ou seja, ela não funciona de maneira linear, mas sim como uma espécie de rede de neurônios que trabalham ao mesmo tempo para entregar um desempenho consideravelmente melhor. A GPU também tem sua própria memória RAM para salvar dados gerados. Esse componente cria um buffer para armazenar imagens concluídas até que você precise exibi-las novamente, agilizando assim o processo.
 
 **Sistema de numeração binária** ou simplesmente **sistema binário**:
 
-**bit (b)**: menor unidade de informação do sistema binário. Um bit pode assumir duas condições: ligado (1) ou desligado (0).
+**bit (b)**: é a menor unidade de informação do sistema binário. Um bit pode assumir duas condições: ligado (1) ou desligado (0).
 
-**Byte (B)**: formado por um conjunto de 8 bits.
-- 4 bits = **Nibble** (24 = 16 combinações)
-- 8 bits = **Byte** (28 = 256 combinações)
-- 16 bits = **Word** (216 = 65.536 combinações)
-- 32 bits = **Double Word** (232 = 4.294.967.296 combinações)
-- 64 bits = **Quad Word** (264 = 18.446.744.073.709.551.616 combinações)
+**Byte (B)**: é formado por um conjunto de 8 bits.
+
+**Outras combinações de bits bastante utilizadas**:
+- 4 bits = **Nibble** (24 = 16 combinações);
+- 8 bits = **Byte** (28 = 256 combinações);
+- 16 bits = **Word** (216 = 65.536 combinações);
+- 32 bits = **Double Word** (232 = 4.294.967.296 combinações);
+- 64 bits = **Quad Word** (264 = 18.446.744.073.709.551.616 combinações).
 
 <!---
 marcus-mocellin/marcus-mocellin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
