@@ -6,8 +6,8 @@
 
 # 👋 Olá!!!
 - Sou **Professor PSS** na **[SEED/PR](https://www.educacao.pr.gov.br/)**, dos componentes curriculares **Física** e **Pensamento Computacional**.
-- Utilizo este repositório para compartilhar as atividades das aulas de Pensamento Computacional.
-- Objetivo: ***Proporcionar raízes aos meus alunos, hoje; para que no futuro, possam adquirir asas.***
+- Utilizo este repositório para compartilhar as atividades realizadas durante as aulas.
+- Meu objetivo: ***Proporcionar raízes aos meus alunos, hoje; para que no futuro, possam adquirir asas.***
 
 ### Contato:
 <a href = "mailto:professor.mocellin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
