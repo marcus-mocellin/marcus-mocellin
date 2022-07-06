@@ -48,7 +48,7 @@ Um **algoritmo** é um conjunto ordenado de passos, não ambíguos e com a final
 
 ![Fluxograma](https://user-images.githubusercontent.com/100809861/177052433-a7b3bf2b-328f-4a26-a2ea-7c41c4fbc51b.png)
 
-**Características básicas de um algoritmo**:
+**Características básicas** de um algoritmo:
 - Ser finito;
 - Não apresentar ambiguidades;
 - Ser capaz de receber dados de entrada do mundo exterior;
@@ -62,7 +62,7 @@ Um **algoritmo** é um conjunto ordenado de passos, não ambíguos e com a final
 - Qual é o resultado esperado?
 - Qual a sequência de passos a ser feita para chegar ao resultado esperado?
 
-**Recursos especiais presentes em algoritmos**:
+**Recursos especiais** que podem estar presentes em algoritmos:
 - Algoritmos com sequências, seleções, decisões e repetições;
 - Algoritmos com estruturas de dados: listas, vetores e matrizes;
 - Algoritmos com abstração ou generalização;
@@ -71,11 +71,11 @@ Um **algoritmo** é um conjunto ordenado de passos, não ambíguos e com a final
 
 ## Sistema de Numeração Binária
 
-Também denominado **sistema binário** ou **sistema de base 2**, o **sistema de numeração binária** é um sistema de numeração posicional em que todas as quantidades são representadas com base em apenas dois números: ***um*** e ***zero*** (***1*** e ***0***). Estes dois números correspondem, respectivamente, a pares de estados (ou de condições), como: ***sim*** ou ***não***, ***verdadeiro*** ou ***falso***, ***ligado*** ou ***desligado***, dentre outros pares de estados similares.
+Também denominado **sistema binário** ou **sistema de base 2**, o **sistema de numeração binária** é um sistema de numeração posicional em que todas as quantidades são representadas com base em apenas dois números: ***um*** e ***zero*** (***1*** e ***0***). Estes dois números correspondem, respectivamente, a pares de estados (ou de condições), como: ***sim*** ou ***não***, ***verdadeiro*** ou ***falso***, ***ligado*** ou ***desligado***.
 
-O **sistema binário** é a base da **álgebra booliana** (de ***George Boole*** — matemático inglês) que permite realizar operações lógicas e aritméticas. A eletrônica digital e a computação estão baseadas no **sistema binário** e na **lógica de Boole** que, através de circuitos eletrônicos digitais, são capazes de representar os números e os caracteres, bem como realizar operações lógicas e aritméticas. Os programas de computador são codificados na forma binária e armazenados em mídias como as memórias e os discos.
+O **sistema binário** é a base da **álgebra booliana** (***George Boole*** — matemático inglês). A eletrônica digital e a computação estão baseadas no **sistema binário** e na **lógica de Boole** que, através de circuitos eletrônicos digitais, são capazes de representar os números e os caracteres, bem como realizar operações lógicas e aritméticas.
 
-O **bit (b)** é a menor unidade de informação do **sistema de numeração binária**, assim como a **letra** é a menor unidade de informação do **sistema de escrita alfabética**.
+Os programas de computador são codificados na forma binária e armazenados em mídias como as memórias em estado sólido e os discos ópticos ou magnéticos. Em um programa, o **bit (b)** é a menor unidade de informação do **sistema de numeração binária**, assim como a **letra** é a menor unidade de informação do **sistema de escrita alfabética**.
 
 Os **bits** são agrupados, conforme a necessidade dos sistemas de computação, da seguinte forma:
 - 4 bits = **Nibble** (24 = 16 combinações);
@@ -84,9 +84,7 @@ Os **bits** são agrupados, conforme a necessidade dos sistemas de computação,
 - 32 bits = **Double Word** (232 = 4.294.967.296 combinações);
 - 64 bits = **Quad Word** (264 = 18.446.744.073.709.551.616 combinações).
 
-Os computadores digitais trabalham internamente com dois níveis de tensão que corespondem ao ***0*** e ao ***1*** do sistema binário. Um **processador** utiliza **blocos lógicos** complexos, formados por **portas lógicas** básicas, cujo funcionamento é amparado por um postulado fundamental da eletrônica digital que determina que um circuito opere apenas com dois níveis de tensão bem definidos. Por exemplo, em um circuito digital **TTL** (***Transistor Transistor Logic***), os dois níveis de tensão padronizados são **0 V** e **5 V**. Portanto, em um circuito **TTL**, **0 V** será interpretado e representado como ***zero*** (***0***), enquanto **5 V** será interpretado e representado como ***um*** (***1***).
-
-Em informações armazenadas na memória **RAM** do computador, o formato será de tensão mais alta (***1***) ou mais baixa (***0***). Em discos magnéticos, a binariedade se dará por diferença de polaridade, ***polo norte*** ou ***polo sul***.
+Os computadores digitais trabalham internamente com dois níveis de tensão que corespondem ao ***0*** e ao ***1*** do sistema binário. Um **processador** utiliza **blocos lógicos** complexos, formados por **portas lógicas** básicas, cujo funcionamento é amparado por um postulado fundamental da eletrônica digital que determina que um circuito opere apenas com dois níveis de tensão bem definidos. Por exemplo, em um circuito digital **TTL** (***Transistor Transistor Logic***), os dois níveis de tensão padronizados são **0 V** e **5 V**. Portanto, em um circuito **TTL**, o **0 V** será interpretado e representado como ***zero*** (***0***), enquanto o **5 V** será interpretado e representado como ***um*** (***1***).
 
 ## Algumas Definições Úteis
 
